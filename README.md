@@ -5,4 +5,5 @@ Gal Ben Arush & Shir Zituni
 
 ## Run the code
 pip install deap 
+
 python algorithms.py
